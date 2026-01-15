@@ -15,13 +15,22 @@
     </p>
   </blockquote>
 </div>
-
+<br />
+<div>
+  <h3>About me .. </h3>
+  <ul>
+    <li><em>I stand at the intersection of <strong>pixel-perfect design</strong> and <strong>bulletproof security</strong>.</em></li>
+    <li>Building secure systems. Breaking things to understand them better.</li>
+    <li>Fusing technical depth with design thinking—from blockchain innovation to secure systems and intuitive UI/UX.</li>
+    <li>Thrive on connecting diverse domains to engineer bold, functional, and secure systems that solve real problems.</li>
+  </ul>
+</div>
+<br>
 <p>
- <em>I stand at the intersection of <strong>pixel-perfect design</strong> and <strong>bulletproof security</strong>.</em>
+ <span style="color:#808080; font-size: 0.9em;">
+ Fun Fact: I treat my GitHub commits like a diary - consistent and slightly chaotic.
+ </span>
 </p>
-
----
-
 <a href="https://samrudhib-portfolio.web.app/"><strong>Explore my Portfolio »</strong></a>
 <br>
 <!--<p>
@@ -29,15 +38,10 @@
  <a href="https://linkedin.com/in/samrudhi-b"><b>LinkedIn</b></a> &nbsp;•&nbsp;
  <a href="mailto:samrudhib24@gmail.com"><b>Email</b></a>
 </p> -->
-<p>
- <span style="color:#808080; font-size: 0.9em;">
- * Fun Fact: I treat my GitHub commits like a diary - consistent and slightly chaotic.
- </span>
-</p>
-      
+
 ---
       
-<h3>Technology I worked with stuff ive bagged</h3>
+<h3>Technologies I Work With</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,cpp,go,php,ruby,r,c,cs,html,css,react,django,mysql,postgres,solidity,bitcoin,kali,gcp,docker,git,firebase,vercel,netlify,linux,figma,jira&perline=14" />
@@ -77,12 +81,12 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elysian0987&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
----
-
 <p align="center">
  <sub>status: building, breaking, documenting.</sub>
 </p>
+
+---
+
 <div align="center">
   <em>If it involves complexity, ambiguity, or risk - I’m interested.</em>
   <br />  <br />
