@@ -28,7 +28,7 @@
 <br>
 <p>
  <span style="color:#808080; font-size: 0.9em;">
- Fun Fact: I treat my GitHub commits like a diary - consistent and slightly chaotic.
+ Fun Fact: I treat my GitHub commits like a diary.. consistent and slightly chaotic..
  </span>
 </p>
 <a href="https://samrudhib-portfolio.web.app/"><strong>Explore my Portfolio »</strong></a>
