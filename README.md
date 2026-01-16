@@ -50,14 +50,14 @@
   <table border="0">
     <tr>
       <td align="center">
-        <b>🕵️‍♀️ CYBER & INTEL</b><br>
+        <b>CYBER & INTEL</b><br>
         <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white" />
         <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
         <img src="https://img.shields.io/badge/Metasploit-122E3A?style=for-the-badge&logo=metasploit&logoColor=white" />
         <img src="https://img.shields.io/badge/WSL-4E4E4E?style=for-the-badge&logo=windows-terminal&logoColor=white" />
       </td>
       <td align="center">
-        <b>🧠 AI & BLOCKCHAIN</b><br>
+        <b>AI & BLOCKCHAIN</b><br>
         <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
         <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=docsify&logoColor=white" />
         <img src="https://img.shields.io/badge/Hardhat-FFA500?style=for-the-badge&logo=ethereum&logoColor=black" />
