@@ -44,7 +44,7 @@
 <h3>Technologies I Work With</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,php,ruby,r,c,cs,html,css,react,jquery,django,mongodb,mysql,postgres,solidity,bitcoin,kali,gcp,azure,docker,git,firebase,vercel,netlify,linux,figma,jira&perline=16" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,go,php,ruby,r,cs,bash,html,css,tailwind,react,jquery,django,apache,maven,mongodb,mysql,postgres,firebase,solidity,bitcoin,metamask,docker,kubernetes,ansible,gcp,azure,linux,git,vercel,netlify,kali,figma,jira,canva,expo&perline=14" />
   </a>
   <br /><br />
   <table border="0">
