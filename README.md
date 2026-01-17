@@ -60,8 +60,9 @@
         <b>AI & BLOCKCHAIN</b><br>
         <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
         <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logo=docsify&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hardhat-FFA500?style=for-the-badge&logo=ethereum&logoColor=black" />
         <img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hardhat-FFA500?style=for-the-badge&logo=ethereum&logoColor=black" />
+        <img src="https://img.shields.io/badge/Ganache-E68F3C?style=for-the-badge&logo=ganache&logoColor=white" />
       </td>
     </tr>
   </table>
