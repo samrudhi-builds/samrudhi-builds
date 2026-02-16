@@ -81,7 +81,7 @@
 </div>
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elysian0987&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrudhi-builds&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 <p align="center">
  <sub>status: building, breaking, documenting.</sub>
@@ -94,7 +94,7 @@
   <br />  <br />
   <sub>B.Tech IT (Honors in Cyber Security) • Class of 2026</sub>
   <br />  <br />
-  <img src="https://komarev.com/ghpvc/?username=Elysian0987&color=A855F7&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=samrudhi-builds&color=A855F7&style=flat-square" alt="views" />
 </div>
 
 <!-- 
@@ -170,7 +170,7 @@
       <a href="mailto:samrudhib24@gmail.com"><b>EMAIL ↗</b></a> --
     </td>
     <td width="30%" align="center" valign="center">
-      <!-- <img src="https://github.com/Elysian0987.png" width="150" style="border-radius: 50%; border: 2px solid #333;">  --
+      <!-- <img src="https://github.com/samrudhi-builds.png" width="150" style="border-radius: 50%; border: 2px solid #333;">  --
       <br /><br />
       <img src="https://img.shields.io/badge/Status-Shipping_Code-black?style=flat-square" />
     </td>
@@ -350,7 +350,7 @@ Vector Databases
 [LinkedIn](https://linkedin.com/in/samrudhi-b) • [Email](mailto:samrudhib24@gmail.com) • [Portfolio](https://samrudhib-portfolio.web.app/)
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elysian0987&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=samrudhi-builds&color=blueviolet" alt="Profile Views" />
 </p>
 -->
 <!-- <p align="center">
@@ -462,10 +462,10 @@ Vector Databases
 ---
 ### GitHub Stats  
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elysian0987&show_icons=true&theme=radical&hide_border=true" alt="Samrudhi's GitHub Stats" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elysian0987&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samrudhi-builds&show_icons=true&theme=radical&hide_border=true" alt="Samrudhi's GitHub Stats" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhi-builds&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elysian0987&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samrudhi-builds&theme=tokyonight" alt="GitHub Streak" />
 </p>
 -->
