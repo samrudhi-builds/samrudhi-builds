@@ -77,7 +77,7 @@
 <br />
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=samrudhi-builds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" alt="Samrudhi's GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elysian0987&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrudhi-builds&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" />
 </div>
 <div align="center">
   <br>
