@@ -21,7 +21,7 @@
   <ul>
     <li><em>I stand at the intersection of <strong>pixel-perfect design</strong> and <strong>bulletproof security</strong>.</em></li>
     <li>Building secure systems. Breaking things to understand them better.</li>
-    <li>Fusing technical depth with design thinking — from blockchain innovation to secure systems and intuitive UI/UX.</li>
+    <li>Fusing technical depth with design thinking - from blockchain innovation to secure systems and intuitive UI/UX.</li>
     <li>Thrive on connecting diverse domains to engineer bold, functional, and secure systems that solve real problems.</li>
   </ul>
 </div>
